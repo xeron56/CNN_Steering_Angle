@@ -1,5 +1,5 @@
 # CNN_Steering_Angle
-A demo can on the in bellow vedio
+Here's a video about this project
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/v3rUuBi16rw/0.jpg)](https://www.youtube.com/watch?v=v3rUuBi16rw)
 
