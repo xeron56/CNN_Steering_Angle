@@ -55,9 +55,6 @@ These pre-processing scripts convert image sets to numpy arrays.
 
 # Model
 
-The main architecture for this model was inspired by the [NVIDIA's self-driving car paper](https://arxiv.org/abs/1604.07316)
-The code includes 3 different models. To choose one of the models, change the model_name in config.py to either "nvidia1", "nvidia2", or "nvidia3".
-
 To train different models, run:
 
 ```
