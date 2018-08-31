@@ -1,5 +1,7 @@
 # CNN_Steering_Angle
+A demo can on the in bellow vedio
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/v3rUuBi16rw/0.jpg)](https://www.youtube.com/watch?v=v3rUuBi16rw)
 
 ## Requirements & Dependencies
 - [Bash on ubuntu on windows](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
@@ -14,14 +16,12 @@
 
 # Data
 
- the dataset can be downloaded in the ROSBAG format from here: https://github.com/udacity/self-driving-car/tree/master/datasets/CH2 (both CH2_001 and CH2_002)
+the dataset can be downloaded  from here: 
 
-We used rwightman's [Udacity Reader docker tool](https://github.com/rwightman/udacity-driving-reader) 
-to convert the images into JPGs.
+training: [link](https://)
+testing:[link](https://)
 
-
-
-The code assumes the following directory structure for data:
+ Directory structure for data:
 
 ```
 - data
@@ -63,10 +63,6 @@ python model.py
 
 You can change these parameters in the `config.py` file:
 
-
-
-
-Once you have trained your models, you can choose the one with the best performance, copy it into the submissions folder and rename it to "final_model.hdf5". 
 
 To predict steering angles from test data, run:
 
