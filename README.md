@@ -19,9 +19,11 @@ Here's a video about this project
 the dataset can be downloaded  from here: 
 
 training: [link](https://github.com/udacity/self-driving-car/tree/master/datasets/CH2) CH2_002 
-testing:[link](https://drive.google.com/drive/folders/0B5PcvDP2jMVSV3ZpTmFPdmdFUHc) : "scenario1" folder then go to "data" folder then finally video data set is on "car" folder, [scenario1 -> data -> car -> car1_camera1.mp4
- ]
- Directory structure for data:
+
+
+testing:[link](https://drive.google.com/drive/folders/0B5PcvDP2jMVSV3ZpTmFPdmdFUHc) : "scenario1" folder then go to "data" folder then finally video data set is on "car" folder, [scenario1 -> data -> car -> car1_camera1.mp4 ]
+
+Directory structure for data:
 
 ```
 - data
